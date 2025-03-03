@@ -1,9 +1,8 @@
-# Python-Tutorial
-https://wikidocs.net/book/17252의 이미지.
-
 ![enter image description here](https://github.com/intrandom5/Python-Tutorial/blob/main/imgs/%ED%8C%8C%EC%9D%B4%EC%8D%AC%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%EC%BB%A4%EB%B2%84.jpg?raw=true)
 
-## 책 내용
+[파이썬 튜토리얼](https://wikidocs.net/book/17252)에 들어간 이미지 모음.
+
+## 내용
 파이썬을 쉽게 배울 수 있도록 작성한 튜토리얼입니다!
 
 기존의 파이썬 기초 내용들은 너무 무겁고 많은 내용들을 담고 있는 경우가 많다고 생각해 최대한 가볍고 쉽게 기본적인 것들만 담아 보았습니다.
